@@ -1,10 +1,21 @@
-# 🏁 Planilha Fórmula 1 – Temporada 2025
+# 🏐 Planilha Liga das Nações de Volei Feminino VNL – 2025
 
-Esta planilha contém informações organizadas sobre a temporada 2025 da Fórmula 1.
+Esta planilha contém informações e recursos relacionados à VNL Feminina 2025.
 
-## 📦 Arquivo disponível
+- Tabela dinâmica de Classificação das Equipes
+- Resultados dos Jogos de 1ª fase e finais
 
-- `Planilha-Formula-1-2025.xlsx`
+## 📂 Arquivo disponível
+
+- `VNL Feminina 2025.xlsx` – Planilha em Excel com todos os dados atualizados do campeonato.
+
+## ✅ Como usar
+
+1. Baixe a planilha clicando em "Download".
+2. Abra no Excel ou no Google Sheets.
+3. Personalize ou acompanhe os dados ao longo do campeonato.
+
+---
 
 ## 📄 Licença
 
