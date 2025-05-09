@@ -15,6 +15,12 @@ Esta planilha contém informações e recursos relacionados à VNL Feminina 2025
 2. Abra no Excel ou no Google Sheets.
 3. Personalize ou acompanhe os dados ao longo do campeonato.
 
+## 💻 Contato
+
+maurilyn@gmail.com
+
+@maurilyn
+
 ---
 
 ## 📄 Licença
