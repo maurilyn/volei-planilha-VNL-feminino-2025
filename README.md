@@ -1,5 +1,7 @@
 # 🏐 Planilha Liga das Nações de Volei Feminino VNL – 2025
 
+**Atualizada** com os resultados da primeira semana (08/06/2025)
+
 Esta planilha contém informações e recursos relacionados à VNL Feminina 2025.
 
 - Tabela dinâmica de Classificação das Equipes
