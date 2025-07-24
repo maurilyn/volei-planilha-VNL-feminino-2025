@@ -1,6 +1,6 @@
 # 🏐 Planilha Liga das Nações de Volei Feminino VNL – 2025
 
-***Atualizada** com os resultados até o dia 13/07/2025. Primeira fase completa*
+***Atualizada** com os resultados até o dia 24/07/2025. Quartas de final completa*
 
 Esta planilha contém informações e recursos relacionados à VNL Feminina 2025.
 
